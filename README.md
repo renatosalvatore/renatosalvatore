@@ -1,4 +1,4 @@
-👋 Hi, I'm @renatosalvatore from CL, I'm 53 years old and I have my life's work done and I have time to learn this wonderful world.
+👋 Hi, I'm @renatosalvatore from CL and I have my life's work done and I have time to learn this wonderful world.
 👀 I am interested in learning to program in particular FrontEnd, then Backend. I have my eye on web applications
 🌱 I am currently learning C#, SQL, CSS3, HTML5 and JS from University.
 💞️ the collaborative environment is undoubtedly the best.
