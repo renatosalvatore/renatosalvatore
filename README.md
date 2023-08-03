@@ -1,8 +1,8 @@
-👋 Hola, soy @renatosalvatore de CL, tengo 53 años y tengo el trabajo de mi vida hecho y tengo tiempo para aprender este maravilloso mundo.
-👀 Me interesa aprender a programar en particular FrontEnd, luego Backend. Tengo el ojo puesto en las aplicaciones web
-🌱 Actualmente estoy aprendiendo C#, SQL, CSS3, HTML5 y JS de la Universidad.
-💞️ el ambiente colaborativo es sin duda el mejor.
-📫 La forma de contactarme es convencional como lo hace todo el mundo, aquí o por correo electrónico, si tienes una forma más chula avísame y me conecto. 
+👋 Hi, I'm @renatosalvatore from CL, I'm 53 years old and I have my life's work done and I have time to learn this wonderful world.
+👀 I am interested in learning to program in particular FrontEnd, then Backend. I have my eye on web applications
+🌱 I am currently learning C#, SQL, CSS3, HTML5 and JS from University.
+💞️ the collaborative environment is undoubtedly the best.
+📫 The way to contact me is conventional as everyone does, here or by email, if you have a cooler way let me know and I'll connect.
 
 <!---
 renatosalvatore/renatosalvatore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
